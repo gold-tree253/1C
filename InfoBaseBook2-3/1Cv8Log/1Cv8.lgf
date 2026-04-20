@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+607a1c42-be06-4714-8cad-cc9d1d7dd214
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"PC",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{4,"_$Access$_.Access",6},
+{4,"_$InfoBase$_.ExclusiveModeChange",7},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",8},
+{4,"_$InfoBase$_.PredefinedDataUpdate",9},
+{5,ec898545-a742-4603-a940-e7f66aa8dd2e,"",1},
+{4,"_$Transaction$_.Begin",10},
+{4,"_$Data$_.New",11},
+{5,ec898545-a742-4603-a940-e7f66aa8dd2e,"Справочник.Клиенты",1},
+{4,"_$Transaction$_.Commit",12},
+{3,"WebSocket",3},
+{3,"BackgroundJob",4},
+{5,47154592-b29c-45f6-8e7d-39a876584e1d,"",2},
+{5,e38893d0-2533-45b3-b5be-f07345b11e5d,"",3},
+{5,e38893d0-2533-45b3-b5be-f07345b11e5d,"Справочник.Номенклатура",3}
